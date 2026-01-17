@@ -8,7 +8,7 @@ from keep_alive import keep_alive
 client = discord.Client()
 
 
-based_takes_words = ["based"]
+based_takes_words = [""]
 
 starter_basedtakes = [""]
 
