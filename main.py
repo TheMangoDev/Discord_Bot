@@ -8,9 +8,9 @@ import json
 import random
 client = discord.Client()
 
-based_takes_words = ["based", "Matthew", "matthew", "takes", "political", "why", "matt", "EUGH"]
+based_takes_words = [""]
 
-starter_basedtakes = ["transhumanism based. -Matthew", "human rights don't exist. -Matthew", "rethinking security politics, biopolitics-Matthew, n psychopolitics-Matthew", "squid game is proof of capitalist realism.-Matthew", "the CIA is giving me tons of english homework on purpose so i don’t read more theory-Matthew", "WAKE UP BABE PANDORA PAPERS JUS DROPPED!!!-Matthew", "accelerationist arc?-Matthew", "market stalinism go brrrr in every crevice around the world-Matthew"]
+starter_basedtakes = [""]
 
 
 
